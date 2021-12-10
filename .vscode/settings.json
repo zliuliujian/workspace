@@ -1,0 +1,10 @@
+{
+    "ros.distro": "kinetic",
+    "files.associations": {
+        "bitset": "cpp",
+        "vector": "cpp",
+        "system_error": "cpp",
+        "thread": "cpp",
+        "typeindex": "cpp"
+    }
+}
